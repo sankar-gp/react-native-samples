@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "name": "SpiderMan 1",
+      "title": "this is title of SpiderMan 1"
+    },
+    {
+      "name": "SpiderMan 2",
+      "title": "this is title of SpiderMan 2"
+    },
+    {
+      "name": "Terminator 1",
+      "title": "this is title of Terminator 1"
+    },
+    {
+      "name": "Terminator 2",
+      "title": "this is title of Terminator 2"
+    },
+    {
+      "name": "Avangers",
+      "title": "this is title of Avangers"
+    },
+    {
+      "name": "WonderWomen",
+      "title": "this is title of WonderWomen"
+    }
+  ]
+}
